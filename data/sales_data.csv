@@ -1,0 +1,10 @@
+date,product,quantity,price,total
+2023-01-01,Product A,10,20,200
+2023-01-01,Product B,5,50,250
+2023-01-02,Product A,7,20,140
+2023-01-02,Product C,3,30,90
+2023-01-03,Product B,8,50,400
+2023-01-03,Product C,6,30,180
+2023-01-04,Product A,5,20,100
+2023-01-04,Product B,2,50,100
+2023-01-05,Product C,10,30,300
